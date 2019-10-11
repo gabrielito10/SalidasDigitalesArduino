@@ -1,3 +1,14 @@
+/*
+Programa para crear la animacion del auto fantastico
+
+Material:
+-Arduino uno
+-8 Resistencias de 330 ohmios
+-8 leds
+- Protoboard
+
+Autor: Juan Gabriel Ibañez Cedillo
+*/
 void setup() {
   //ponemos los pines del 2 al 9 como salidas
   pinMode(2,OUTPUT);
