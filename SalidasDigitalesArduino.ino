@@ -9,6 +9,7 @@ Material:
 
 Autor: Juan Gabriel Ibañez Cedillo
 */
+
 void setup() {
   //ponemos los pines del 2 al 9 como salidas
   pinMode(2,OUTPUT);
